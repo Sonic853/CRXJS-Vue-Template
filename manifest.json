@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "CRXJS Vue Template",
+  "version": "1.0.0",
+  "options_page": "options.html",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "src/background.ts",
+    "type": "module"
+  }
+}
