@@ -14,8 +14,8 @@ devDependencies:
     specifier: 2.0.0-beta.17
     version: 2.0.0-beta.17
   '@types/chrome':
-    specifier: ^0.0.233
-    version: 0.0.233
+    specifier: ^0.0.237
+    version: 0.0.237
   '@vitejs/plugin-vue':
     specifier: ^4.2.3
     version: 4.2.3(vite@4.3.9)(vue@3.3.4)
@@ -307,8 +307,8 @@ packages:
       picomatch: 2.3.1
     dev: true
 
-  /@types/chrome@0.0.233:
-    resolution: {integrity: sha512-T3HUW8LDhHfYPbUkOZilhnqX04sZqEFIQO0OIG8byZ7PBIk2jYys1AkNg56UbtKbsh3dABmOniK+0Q3oyo7Sxg==}
+  /@types/chrome@0.0.237:
+    resolution: {integrity: sha512-krsRmyfMlck5r+H1EapsrrucDRq6iRm0NAi5fapr93CgnpVMDdK+h2+z4x79GegdW7BNH9Vb//gkptORwwwVIQ==}
     dependencies:
       '@types/filesystem': 0.0.32
       '@types/har-format': 1.2.11
